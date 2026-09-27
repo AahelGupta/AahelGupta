@@ -1,28 +1,18 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Aahel%20Gupta&fontSize=50&fontAlignY=38&animation=twinkling&desc=CS%20Engineering%20Student%20%7C%20Frontend%20%26%20React%20Developer&descSize=20&descAlignY=65" width="100%" alt="Header Banner" />
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Aahel%20Gupta&fontSize=50&fontAlignY=38&animation=twinkling&desc=CS%20Engineering%20Student%20%7C%20Frontend%20%26%20React%20Developer&descSize=20&descAlignY=65)
 
   <!-- Animated Typing SVG Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Aahel+Gupta!;Computer+Science+Engineering+Student+%40+SNU;Frontend+Developer+%7C+React.js+%26+Tailwind+CSS;Building+Responsive+Web+Apps+%26+Modular+Python+Systems;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Aahel+Gupta!;Computer+Science+Engineering+Student+%40+SNU;Frontend+Developer+%7C+React.js+%26+Tailwind+CSS;Building+Responsive+Web+Apps+%26+Modular+Python+Systems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
   <br/><br/>
 
   <!-- Quick Badges -->
-  <a href="https://github.com/AahelGupta">
-    <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-1E293B?style=for-the-badge&logo=googlemaps&logoColor=F43F5E" alt="Location"/>
-  </a>
-  <a href="https://github.com/AahelGupta">
-    <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20'28-0F172A?style=for-the-badge&logo=graduation-cap&logoColor=38BDF8" alt="Education"/>
-  </a>
-  <a href="mailto:aahelgupta47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aahelgupta47%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/AahelGupta">
-    <img src="https://img.shields.io/github/followers/AahelGupta?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" alt="Followers"/>
-  </a>
+  [![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-1E293B?style=for-the-badge&logo=googlemaps&logoColor=F43F5E)](https://github.com/AahelGupta)
+  [![Education](https://img.shields.io/badge/Education-B.Tech%20CSE%20'28-0F172A?style=for-the-badge&logo=graduation-cap&logoColor=38BDF8)](https://github.com/AahelGupta)
+  [![Email](https://img.shields.io/badge/Email-aahelgupta47%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aahelgupta47@gmail.com)
+  [![Followers](https://img.shields.io/github/followers/AahelGupta?label=Followers&style=for-the-badge&color=8B5CF6&logo=github)](https://github.com/AahelGupta)
 
 </div>
 
@@ -131,11 +121,8 @@ aahel:
 
   <!-- Contribution Snake Animation -->
   <h4>🐍 Contribution Graph Snake</h4>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AahelGupta/AahelGupta/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AahelGupta/AahelGupta/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/AahelGupta/AahelGupta/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+  ![Contribution Graph Snake](https://raw.githubusercontent.com/AahelGupta/AahelGupta/output/github-contribution-grid-snake.svg)
 
 </div>
 
