@@ -1,7 +1,12 @@
 <div align="center">
 
+  <!-- Custom Tech Header Banner -->
+  ![Aahel Gupta Header Banner](header-banner.png)
+
+  <br/>
+
   <!-- Animated Header Banner -->
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0284C7&height=240&section=header&text=Aahel%20Gupta&fontSize=52&fontAlignY=35&animation=twinkling&desc=CS%20Engineering%20Student%20%7C%20Frontend%20%26%20React%20Developer&descSize=20&descAlignY=65)
+  ![Header Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0284C7&height=220&section=header&text=Aahel%20Gupta&fontSize=52&fontAlignY=35&animation=twinkling&desc=CS%20Engineering%20Student%20%7C%20Frontend%20%26%20React%20Developer&descSize=20&descAlignY=65)
 
   <br/>
 
