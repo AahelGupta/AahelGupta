@@ -1,10 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Aahel%20Gupta&fontSize=50&fontAlignY=38&animation=twinkling&desc=CS%20Engineering%20Student%20%7C%20Frontend%20%26%20React%20Developer&descSize=20&descAlignY=65)
+  <!-- Animated Header Banner -->
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0284C7&height=240&section=header&text=Aahel%20Gupta&fontSize=52&fontAlignY=35&animation=twinkling&desc=CS%20Engineering%20Student%20%7C%20Frontend%20%26%20React%20Developer&descSize=20&descAlignY=65)
+
+  <br/>
 
   <!-- Animated Typing SVG Header -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Aahel+Gupta!;Computer+Science+Engineering+Student+%40+SNU;Frontend+Developer+%7C+React.js+%26+Tailwind+CSS;Building+Responsive+Web+Apps+%26+Modular+Python+Systems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%90%8B%2C+I'm+Aahel+Gupta!;Computer+Science+Engineering+Student+%40+SNU+%F0%9F%8E%93;React.js+%26+Frontend+Web+Specialist+%E2%9A%A1;Building+Modular+Python+Systems+%26+SQL+Databases+%F0%9F%90%8D;Welcome+to+my+Animated+GitHub+Profile!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
   <br/><br/>
 
@@ -18,7 +20,7 @@
 
 <br/>
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=4&section=header)
 
 ### 👨‍💻 About Me
 
@@ -40,7 +42,7 @@ aahel:
 
 <br/>
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=4&section=header)
 
 ### 🛠️ Tech Stack & Skills
 
@@ -77,7 +79,7 @@ aahel:
 
 <br/>
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=4&section=header)
 
 ### 🌟 Featured Projects
 
@@ -89,46 +91,32 @@ aahel:
 
 <br/>
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=4&section=header)
 
-### 📊 GitHub Statistics & Metrics
+### 📊 Animated Statistics & Contribution Snake
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/AahelGupta">
-          <img src="https://github-readme-stats.vercel.app/api?username=AahelGupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Aahel's GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/AahelGupta">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AahelGupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <!-- Streak Stats -->
-  <a href="https://github.com/AahelGupta">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AahelGupta&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak Stats" />
-  </a>
+  [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AahelGupta&theme=tokyonight&hide_border=true)](https://github.com/AahelGupta)
 
   <br/><br/>
 
   <!-- Contribution Snake Animation -->
-  <h4>🐍 Contribution Graph Snake</h4>
+  <h4>🐍 Animated Contribution Graph Snake</h4>
 
   ![Contribution Graph Snake](https://raw.githubusercontent.com/AahelGupta/AahelGupta/output/github-contribution-grid-snake.svg)
+
+  <br/><br/>
+
+  <!-- Daily Tech Quote -->
+  [![Daily Tech Quote](https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight)](https://github.com/AahelGupta)
 
 </div>
 
 <br/>
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=4&section=header)
 
 ### 🤝 Connect & Socials
 
@@ -151,6 +139,6 @@ aahel:
 <div align="center">
 
   <sub>Designed with ❤️ for **Aahel Gupta** | B.Tech Computer Science Engineering @ SNU</sub><br/>
-  <img src="https://komarev.com/ghpvc/?username=AahelGupta&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AahelGupta&color=38BDF8&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
