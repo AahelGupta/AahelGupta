@@ -14,8 +14,18 @@
 
   <br/><br/>
 
+  <!-- Animated Cyber Grid Background Canvas -->
+  ![Cyber Grid Background](cyber_grid_bg.svg)
+
+  <br/><br/>
+
   <!-- Animated Capsule Waving Banner -->
   ![Capsule Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0284C7&height=200&section=header&text=Aahel%20Gupta&fontSize=48&fontAlignY=35&animation=twinkling&desc=Frontend%20Developer%20%7C%20B.Tech%20CSE%20'28&descSize=18&descAlignY=65)
+
+  <br/><br/>
+
+  <!-- Animated Matrix Rain Background Canvas -->
+  ![Matrix Rain Background](matrix_rain_bg.svg)
 
   <br/><br/>
 
