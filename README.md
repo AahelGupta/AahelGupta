@@ -1,17 +1,20 @@
 <div align="center">
 
-  <!-- Custom Tech Header Banner -->
-  ![Aahel Gupta Header Banner](header-banner.png)
+  <!-- Animated Hero Coding Banner -->
+  ![Coding Hero GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-  <br/>
+  <br/><br/>
 
-  <!-- Animated Header Banner -->
-  ![Header Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0284C7&height=220&section=header&text=Aahel%20Gupta&fontSize=52&fontAlignY=35&animation=twinkling&desc=CS%20Engineering%20Student%20%7C%20Frontend%20%26%20React%20Developer&descSize=20&descAlignY=65)
-
-  <br/>
+  <!-- Animated Waving Greeting -->
+  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="Wave"/>, I'm <span style="color:#38bdf8;">Aahel Gupta</span>!</h1>
 
   <!-- Animated Typing SVG Header -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%90%8B%2C+I'm+Aahel+Gupta!;Computer+Science+Engineering+Student+%40+SNU+%F0%9F%8E%93;React.js+%26+Frontend+Web+Specialist+%E2%9A%A1;Building+Modular+Python+Systems+%26+SQL+Databases+%F0%9F%90%8D;Welcome+to+my+Animated+GitHub+Profile!+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student+%40+SNU+%F0%9F%8E%93;React.js+%26+Frontend+Web+Developer+%E2%9A%A1;Building+Modular+Python+Systems+%26+SQL+Databases+%F0%9F%90%8D;Welcome+to+my+Animated+GitHub+Profile!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+  <br/><br/>
+
+  <!-- Animated Capsule Waving Banner -->
+  ![Capsule Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0284C7&height=200&section=header&text=Aahel%20Gupta&fontSize=48&fontAlignY=35&animation=twinkling&desc=Frontend%20Developer%20%7C%20B.Tech%20CSE%20'28&descSize=18&descAlignY=65)
 
   <br/><br/>
 
@@ -49,36 +52,57 @@ aahel:
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=4&section=header)
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Interactive Tech Stack & Animated Logos
 
 <div align="center">
 
-#### 🚀 Frontend & Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  </a>
 
-#### 💻 Languages & Database
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+  <br/><br/>
 
-#### ⚙️ Core CS & Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/OOPs_Concept-4A5568?style=for-the-badge&logo=codeforces&logoColor=white" alt="OOPs" />
-  <img src="https://img.shields.io/badge/DBMS_%26_OS-2D3748?style=for-the-badge&logo=serverless&logoColor=white" alt="DBMS & OS" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
 
 </div>
 
