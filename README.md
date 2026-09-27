@@ -5,7 +5,8 @@
 
   <br/><br/>
 
-  <!-- Animated Waving Greeting -->
+  <!-- Animated Waving Greeting & Glowing Avatar -->
+  <img src="animated_avatar.gif" width="120" alt="Aahel Animated Avatar" />
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="Wave"/>, I'm <span style="color:#38bdf8;">Aahel Gupta</span>!</h1>
 
   <!-- Animated Typing SVG Header -->
