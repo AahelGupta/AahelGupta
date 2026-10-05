@@ -179,6 +179,6 @@ aahel:
 <div align="center">
 
   <sub>Designed with ❤️ for **Aahel Gupta** | B.Tech Computer Science Engineering @ SNU</sub><br/>
-  <img src="https://komarev.com/ghpvc/?username=AahelGupta&color=38BDF8&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=AahelGupta.AahelGupta&label=Profile%20Views&labelColor=%230F172A&countColor=%2338BDF8&style=for-the-badge" alt="Profile Views" />
 
 </div>
