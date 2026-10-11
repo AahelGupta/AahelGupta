@@ -125,9 +125,11 @@ aahel:
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
+| 📰 **Briefly (News Aggregator)** | `React 18` `Tailwind v4` `Vite` `TTS API` | • Real-time news hub aggregating feeds from **The Guardian**, **BBC**, and **Hacker News**.<br/>• Distraction-free reader mode, text-to-speech audio narration, offline caching, and keyboard navigation. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/AahelGupta/News-Aggregator) |
+| 🐦 **Chirp (Social Platform)** | `React.js` `Context API` `Tailwind v4` `Vite` | • Full-featured Twitter/X clone featuring dual timeline feeds ("For You" & "Following").<br/>• Real-time composer, interactive hashtags, simulated live interactions, and dark mode. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/AahelGupta/Social-Media) |
+| 🍳 **Recipe Finder & Meal Planner** | `React 18` `Tailwind CSS` `TheMealDB API` | • Culinary platform featuring multi-ingredient pantry matching algorithm.<br/>• Step-by-step interactive cooking mode with live timers, notes, and weekly meal planning. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/AahelGupta/Recipe-Finder) |
 | 💼 **Employee & Admin Dashboard** | `React.js` `Context API` `Web Storage` | • Enterprise portal with separate **Admin** and **Employee** roles.<br/>• Global state via React Context API to prevent prop-drilling.<br/>• Persistent data via `localStorage` simulating real-time auth cycles. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/AahelGupta/Employee-And-Admin-Dashboard) |
 | 🎓 **Student Management System** | `Python` `OOP Architecture` | • Modular backend managing **Students**, **Courses**, **Attendance**, and **Marks**.<br/>• Data analytics engine generating class performance insights & Top 10 leaderboards.<br/>• Clean CRUD operations and automated record seeding. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/AahelGupta/Student-Management-System) |
-| 🛠️ **Frontend Web Applications** | `React.js` `Tailwind CSS` | • Suite of responsive utilities including **Expense Tracker**, **Medicine Reminder**, **Tic Tac Toe**, and **Rock Paper Scissors**. | [<img src="https://img.shields.io/badge/Profile-181717?style=flat-square&logo=github" />](https://github.com/AahelGupta) |
 
 <br/>
 
