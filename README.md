@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Profile Header Banner -->
+  ![Aahel Gupta Header Banner](header-banner.png)
+
+  <br/><br/>
+
   <!-- Animated Hero Coding Banner -->
   ![Coding Hero GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
